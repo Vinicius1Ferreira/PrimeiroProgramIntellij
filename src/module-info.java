@@ -1,0 +1,2 @@
+module primeiro.programa.intellij {
+}
